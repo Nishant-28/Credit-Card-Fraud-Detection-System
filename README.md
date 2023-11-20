@@ -1,6 +1,10 @@
 # Credit-Card-Fraud-Detection-System
 
-Project for:-
+Project by :-
+
+Nishant 21051488
+
+Utkarsh Kumar Gupta 21051525
 
 
 School of Computer Science
