@@ -13,8 +13,8 @@ School of Computer Science
 KIIT
 Course: Computer Networks (IT-3009)
 
+<span style="color: green"> Project Topic: Credit Card Fraud Detection System </span>
 
-Project Topic: Credit Card Fraud Detection System
 
 
 Project Overview
