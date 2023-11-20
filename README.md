@@ -52,5 +52,8 @@ Fine-tune parameters to achieve optimal performance in detecting fraudulent acti
 Conduct rigorous testing to ensure reliability and robustness of the implemented system.
 
 
+![image](https://github.com/Nishant-28/Credit-Card-Fraud-Detection-System/assets/92144362/6b05736b-202b-44de-bca2-2b437035f00d)
+
+
 Conclusion
 This Credit Card Fraud Detection System project aims to contribute to the ongoing efforts in combating the rising threat of credit card fraud through the integration of advanced data analysis and machine learning techniques. By achieving the outlined objectives, the project seeks to develop a robust and effective system capable of accurately identifying and preventing fraudulent transactions in real-time.
